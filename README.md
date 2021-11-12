@@ -272,3 +272,19 @@ Pure Liquid Jekyll Table of Contents is distributed under the terms of the [MIT 
 Minimal Mistakes incorporates [Lunr](http://lunrjs.com),
 Copyright (c) 2018 Oliver Nightingale.
 Lunr is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
+https://honbabzone.com/jekyll/start-gitHubBlog/
+
+https://makerwidget.com/home
+
+bundle exec jekyll serve
+jekyll serve –port
+블로그 게시물에 대한 네이밍 규칙은 YEAR-MONTH-DAY-title.md
+YAML : https://yaml.org/
+Liquid 문법 : https://shopify.github.io/liquid/
+Jekyll 폴더구조 : https://jekyllrb-ko.github.io/docs/structure/
+
+개발시
+npm run watchDev:js
+배포시
+npm run build:js
